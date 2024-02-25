@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e542d7a2-f6d1-4d03-91c0-cf633c3ef130" name="Changes" comment="AI researcher and web browsing agents done">
-      <change afterPath="$PROJECT_DIR$/CLI_GPT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Combination_of_both.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Custom_tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Human_as_a_tool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_replit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Youtube_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e542d7a2-f6d1-4d03-91c0-cf633c3ef130" name="Changes" comment="Create README.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -191,7 +183,31 @@
       <option name="project" value="LOCAL" />
       <updated>1708614684315</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="new files added">
+      <option name="closed" value="true" />
+      <created>1708880195687</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708880195687</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Create README.md">
+      <option name="closed" value="true" />
+      <created>1708880336035</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708880336035</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Create README.md">
+      <option name="closed" value="true" />
+      <created>1708880404435</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708880404435</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,6 +229,8 @@
     <MESSAGE value="chromadb installed" />
     <MESSAGE value="document Q&amp;A model done" />
     <MESSAGE value="AI researcher and web browsing agents done" />
-    <option name="LAST_COMMIT_MESSAGE" value="AI researcher and web browsing agents done" />
+    <MESSAGE value="new files added" />
+    <MESSAGE value="Create README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create README.md" />
   </component>
 </project>
